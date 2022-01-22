@@ -7,5 +7,9 @@ int main()
     cin>>a;
     cout<<a;
     return 0;
-    //All comments are deleted
+    //this one from file
+    //second line
+    //this one from master
+    //shaka2
+    //shaka2.1
 }
