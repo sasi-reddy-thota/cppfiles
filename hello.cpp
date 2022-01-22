@@ -9,5 +9,10 @@ int main()
     return 0;
     //this one from file
     //second line
+<<<<<<< HEAD
     //this is shaka1
+=======
+    //shaka2
+    //shaka2.1
+>>>>>>> shaka2
 }
