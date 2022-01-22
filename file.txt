@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Hello frends how are you
+
 I am sasi kumar reddy thota
+=======
+>>>>>>> branch2
