@@ -7,4 +7,5 @@ int main()
     cin>>a;
     cout<<a;
     return 0;
+    
 }
